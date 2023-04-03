@@ -27,5 +27,5 @@ spec:
     spec:
       containers:
         - name: hello
-          image: aravindulb/kubeimg:latest
+          image: aravindulb/pyimage:latest
           imagePullPolicy: Always
